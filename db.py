@@ -7,7 +7,7 @@ db_params = {
     "port": 5432,  
     "database": "llm_guardrail",
     "user": "postgres",
-    "password": "Ryanrj@37"
+    "password": "**********"
 }
 
 from psycopg2 import pool
