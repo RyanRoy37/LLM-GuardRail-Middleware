@@ -233,8 +233,4 @@ Contributions are welcome! Please open issues or pull requests for bug fixes, fe
 
 ## License
 
-Specify your license here (e.g., MIT, Apache-2.0). If you have a LICENSE file, link to it.
 
----
-
-*Built with ❤️ to help you safely deploy and operate LLM-powered applications.*
